@@ -261,7 +261,7 @@ const styles = StyleSheet.create({
   },
   WelcomeText: {
     fontFamily: "Roboto-Bold",
-    fontSize: 25,
+    fontSize: 26,
     marginBottom: 18,
   },
   InputText: {
